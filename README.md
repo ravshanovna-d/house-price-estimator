@@ -2,7 +2,7 @@
 
 Estimates the sale price of a house in Ames, Iowa from 13 facts a buyer or agent already knows: size, quality, age, garage and neighborhood.
 
-**[Live demo →](LIVE_DEMO_URL)** — fill in a house profile and get a price estimate instantly. The model runs in your browser (ONNX Runtime Web), no server needed.
+**[Live demo →](https://ravshanovna-house-prices.vercel.app)** — fill in a house profile and get a price estimate instantly. The model runs in your browser (ONNX Runtime Web), no server needed.
 
 ![Predicted vs actual price](web/assets/predicted_vs_actual.png)
 
